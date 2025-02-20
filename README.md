@@ -16,7 +16,11 @@ It analyzes personality, strengths, values, and work preferences to suggest real
 ### Step-by-Step Usage:
 
 1. **Read the README**: Make sure to read through the README for initial context and setup instructions.
-2. **Check Library Requirements**: The requirements.txt file lists all necessary dependencies. Install them using pip install -r requirements.txt.
-3. **Download the Sample User Profile Excel File**: The file sample_user_profile.xlsx is provided. Fill it out with the necessary user information.
-4. **Download the Code**: After downloading the code, ensure you update the API key and file path as needed. You can change the constraints and GPT model if you prefer.
-5. **Get the Output**: Run the code to generate career recommendations based on the user profile.
+2. 
+3. **Check Library Requirements**: The requirements.txt file lists all necessary dependencies. Install them using pip install -r requirements.txt.
+4. 
+5. **Download the Sample User Profile Excel File**: The file sample_user_profile.xlsx is provided. Fill it out with the necessary user information.
+6. 
+7. **Download the Code**: After downloading the code, ensure you update the API key and file path as needed. You can change the constraints and GPT model if you prefer.
+8. 
+9. **Get the Output**: Run the code to generate career recommendations based on the user profile.
