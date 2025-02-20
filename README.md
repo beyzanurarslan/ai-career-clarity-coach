@@ -15,7 +15,7 @@ It analyzes personality, strengths, values, and work preferences to suggest real
 
 ### Step-by-Step Usage:
 
-1. **Check Library Requirements**: The requirements.txt file lists all necessary dependencies. Install them using pip install -r requirements.txt.
+1. **Check Library Requirements**: The requirements.txt file lists all necessary dependencies. Install them using `pip install -r requirements.txt`.
    
 2. **Download the Sample User Profile Excel File**: The file sample_user_profile.xlsx is provided. Fill it out with the necessary user information.
    
